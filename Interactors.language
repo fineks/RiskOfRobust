@@ -1,0 +1,314 @@
+{
+	strings:
+	{
+	//[INTERACTABLES],
+	"SURVIVOR_POD_HATCH_OPEN_CONTEXT": "SOMEBODY",
+	"SURVIVOR_POD_OPEN_PANEL_CONTEXT" : "tryna get rex?",
+	"TELEPORTER_NAME": "teleporter goin up!",
+	"TELEPORTER_BEGIN_CONTEXT": "teleport some bread",
+	"TELEPORTER_END_CONTEXT": "dip",
+
+	"BARREL1_NAME": "free money",
+	"BARREL1_CONTEXT": "just press e!",
+	
+	"DUMMYINTERACTION_NAME": "???",
+	"DUMMYINTERACTION_CONTEXT": "???",
+	
+	"LOCKBOX_NAME": "large chest",
+	"LOCKBOX_CONTEXT": "Open large chest equivalent",
+	
+	"EQUIPMENTBARREL_NAME": "halflife orange box",
+	"EQUIPMENTBARREL_CONTEXT": "Open orange box",
+
+	//[CHESTS],
+	"OLDCHEST_NAME": "what is this",
+	"OLDCHEST_CONTEXT": "",
+
+	"CHEST1_NAME": "breast",
+	"CHEST1_CONTEXT": "Open breast (lol)",
+
+	"CHEST1_STEALTHED_NAME": "WHAT",
+	"CHEST1_STEALTHED_CONTEXT": "HOW DID YOU-",
+
+	"CHEST2_NAME": "Large breast",
+	"CHEST2_CONTEXT": "hehehehehe",
+
+	"GOLDCHEST_NAME": "free red",
+	"GOLDCHEST_CONTEXT": "acquire the b(red)",
+
+	"TIMEDCHEST_NAME": "preon chest",
+	"TIMEDCHEST_CONTEXT": "obtain the preon",
+
+	"RADIOTOWER_NAME" : "lore",
+	"RADIOTOWER_CONTEXT" : "Download some lore",
+
+	"MULTISHOP_TERMINAL_NAME": "strip mall",
+	"MULTISHOP_TERMINAL_CONTEXT": "choose the right one",
+
+	"FAN_NAME": "why",
+	"FAN_CONTEXT": "just dont",
+
+	"DUPLICATOR_NAME": "item consoomer",
+	"DUPLICATOR_CONTEXT": "OOOOO IM CONSOOMING",
+
+	"DUPLICATOR_MILITARY_NAME": "red Printer",
+	"DUPLICATOR_MILITARY_CONTEXT": "dont let it take ya good red",
+	"DUPLICATOR_WILD_NAME": "where does this fit into the lore",
+	"DUPLICATOR_WILD_CONTEXT": "use it ig",
+
+	"CASINOCHEST_NAME": "casino",
+	"CASINOCHEST_CONTEXT": "test your reaction speed",
+
+	//[LUNAR STUFF],
+	"LUNAR_CHEST_NAME" : "test your luck",
+	"LUNAR_CHEST_CONTEXT" : "you might get a shaped glass who knows",
+
+	"LUNAR_TERMINAL_NAME" : "free item",
+	"LUNAR_TERMINAL_CONTEXT" : "assuming you have a suspiciously large amount of coins",
+
+	"LUNAR_REROLL_NAME" : "coin machine",
+	"LUNAR_REROLL_CONTEXT" : "your gonna need more lunar coins",
+
+	"BAZAAR_UPGRADE_LUNAR_NAME" : "Slab",
+	"BAZAAR_UPGRADE_LUNAR_CONTEXT" : "Permanently upgrade Item Shop",
+
+	"BAZAAR_BLUEPRINT_NAME" : "Strange Display",
+	"BAZAAR_BLUEPRINT_CONTEXT" : "Permanently Unlock",
+
+	"BAZAAR_UPGRADE_DRONE_NAME" : "Slab",
+	"BAZAAR_UPGRADE_DRONE_CONTEXT" : "Permanently upgrade Drone Shop",
+
+	"BAZAAR_CAULDRON_NAME" : "cauldron thing",
+	"BAZAAR_CAULDRON_CONTEXT" : "dont let it waste your good items",
+
+	"NEWT_STATUE_NAME" : "call the newt",
+	"NEWT_STATUE_CONTEXT" : "accept his invitation to his mancave",
+
+	"MSOBELISK_NAME" : "run ender",
+	"MSOBELISK_CONTEXT" : "end your run lol",
+	"MSOBELISK_CONTEXT_CONFIRMATION" : "see ya nerd",
+
+	"CATEGORYCHEST_HEALING_NAME": "that good shit",
+	"CATEGORYCHEST_HEALING_CONTEXT": "Open for some heals",
+
+	"CATEGORYCHEST_DAMAGE_NAME": "power",
+	"CATEGORYCHEST_DAMAGE_CONTEXT": "kill them all",
+
+	"CATEGORYCHEST_UTILITY_NAME": "movement",
+	"CATEGORYCHEST_UTILITY_CONTEXT": "get some movement, or a backup mag",
+
+	//[SHRINES],
+	"SHRINE_HEALING_NAME": "upgradable bungus",
+	"SHRINE_HEALING_CONTEXT": "get your fix of bungus",
+	"SHRINE_HEALING_USE_MESSAGE_2P": "<style=cShrine>mmm that feels good</color>",
+	"SHRINE_HEALING_USE_MESSAGE": "<style=cShrine>{0} feels better now</color>",
+	
+	"SHRINE_BLOOD_NAME": "hurt yourself",
+	"SHRINE_BLOOD_CONTEXT": "stub your toe",
+	"SHRINE_BLOOD_USE_MESSAGE_2P": "<style=cShrine>You stub your toe. You have gained {1} gold.</color>",
+	"SHRINE_BLOOD_USE_MESSAGE": "<style=cShrine>{0} stubbed their toe, fucking idiot.</color>",
+
+	"SHRINE_CHANCE_NAME": "test your luck",
+	"SHRINE_CHANCE_CONTEXT": "that 45 percent lookin real good",
+	"SHRINE_CHANCE_SUCCESS_MESSAGE_2P": "<style=cShrine>fine, heres some shit</color>",
+	"SHRINE_CHANCE_SUCCESS_MESSAGE": "<style=cShrine>{0} offered to the shrine and got some shit!</color>",
+	"SHRINE_CHANCE_FAIL_MESSAGE_2P": "<style=cShrine>get fucked</color>",
+	"SHRINE_CHANCE_FAIL_MESSAGE": "<style=cShrine>{0} offered to the shrine and got fucked</color>",
+
+	"SHRINE_BOSS_NAME": "YES YES YES",
+	"SHRINE_BOSS_CONTEXT": "DO IT NOW",
+	"SHRINE_BOSS_USE_MESSAGE_2P": "<style=cShrine>HERE WE GO BOYS</color>",
+	"SHRINE_BOSS_USE_MESSAGE": "<style=cShrine>{0} has fucked over the run</color>",
+	"SHRINE_BOSS_BEGIN_TRIAL": "<style=cShrine>you bouta get fucked up</style>",
+	"SHRINE_BOSS_END_TRIAL": "<style=cShrine>damn nice job</style>",
+
+	"SHRINE_RESTACK_NAME": "HEHEHHEHEHEHHEHEHEHEHEHHE",
+	"SHRINE_RESTACK_CONTEXT": "you know you want to",
+	"SHRINE_RESTACK_USE_MESSAGE_2P": "<style=cShrine>HAHAHA ENJOY THAT 100 USELESS ITEM</color>",
+	"SHRINE_RESTACK_USE_MESSAGE": "<style=cShrine>{0} GOT FUCKED LMAOOOOOO</color>",
+
+	"SHRINE_RESTACK_NAME": "what are you doing",
+	"SHRINE_RESTACK_CONTEXT": "don't do this you'll fuck up your run",
+	"SHRINE_RESTACK_USE_MESSAGE_2P": "<style=cShrine>you fucked up your run.</color>",
+	"SHRINE_RESTACK_USE_MESSAGE": "<style=cShrine>{0} fucked up their run.</color>",
+
+	"SHRINE_GOLDSHORES_NAME": "gold portal",
+	"SHRINE_GOLDSHORES_CONTEXT": "get ready to fight the fat bitch?",
+
+	"SHRINE_COMBAT_NAME": "Shrine of 4 elite enemys",
+	"SHRINE_COMBAT_CONTEXT": "pray you dont get hard enemies",
+	"SHRINE_COMBAT_USE_MESSAGE_2P": "<style=cShrine>OH FUCK THE {1}s ARE HERE.</color>",
+	"SHRINE_COMBAT_USE_MESSAGE": "<style=cShrine>{0} has summoned {1}s to fuck yall up.</color>",
+
+	"SHRINE_PROTECTION_NAME": "Shrine of Warding",
+	"SHRINE_PROTECTION_CONTEXT": "Pray to Shrine of Warding",
+	"SHRINE_PROTECTION_USE_MESSAGE_2P": "<style=cShrine>You feel safe.</color>",
+	"SHRINE_PROTECTION_USE_MESSAGE": "<style=cShrine>{0} feels safe.</color>",
+
+	"SHRINE_CLEANSE_NAME": "take a holy bath",
+	"SHRINE_CLEANSE_CONTEXT": "its like a small blow up pool",
+	"SHRINE_CLEANSE_USE_MESSAGE_2P": "<style=cShrine>no more {1}!</color>",
+	"SHRINE_CLEANSE_USE_MESSAGE": "<style=cShrine>{0} has lost their {1}.</color>",
+
+	"GOLDTOTEM_NAME": "matchstick",
+	"GOLDTOTEM_CONTEXT": "strike the matchstick",
+
+	"ARENA_ADD_MONSTER" : "<style=cWorldEvent>[WARNING] the {1}s are here! </style>",
+	"ARENA_ADD_ITEM" : "<style=cWorldEvent>[WARNING] OH FUCK THEY FOUND THE {1} </style>",
+	"ARENA_END" : "<style=cWorldEvent>congrats, you now have acrid.</style>",
+	"NULL_WARD_NAME" : "vent",
+	"NULL_WARD_CONTEXT" : "fart the vent",
+	//MISC
+	"YOUNG_TELEPORTER_NAME": "Teleporter Sapling",
+	"YOUNG_TELEPORTER_CONTEXT": "Activate Teleporter Sapling",
+
+	"MOON_BATTERY_SOUL_NAME" : "Pillar of fuck you",
+	"MOON_BATTERY_SOUL_CONTEXT" : "you'd better stay in it",
+
+	"MOON_BATTERY_BLOOD_NAME" : "Pillar of blood transfusion",
+	"MOON_BATTERY_BLOOD_CONTEXT" : "transfuse your blood",
+
+	"MOON_BATTERY_DESIGN_NAME" : "Pillar of GET BACK",
+	"MOON_BATTERY_DESIGN_CONTEXT" : "god this is annoying",
+
+	"MOON_BATTERY_MASS_NAME" : "Pillar of absolutly nothing special",
+	"MOON_BATTERY_MASS_CONTEXT" : "whats the catch with this one?",
+
+	"LOCKEDMAGE_NAME" : "newts cum jar",
+	"LOCKEDMAGE_CONTEXT" : "Free that poor survivor",
+		
+	"LOCKEDTREEBOT_NAME" : "Broken dude",
+	"LOCKEDTREEBOT_CONTEXT" : "he need some milk",
+
+	"SCAVBACKPACK_NAME" : "ball sack",
+	"SCAVBACKPACK_CONTEXT" : "Open ball sack",
+	//[DRONES],
+	"DRONE_GUNNER_INTERACTABLE_NAME": "Broken useless Drone",
+	"DRONE_GUNNER_CONTEXT": "why would you do this",
+
+	"DRONE_MEGA_INTERACTABLE_NAME": "Broken big drone",
+	"DRONE_MEGA_CONTEXT": "get captains hacking beacon",
+
+	"DRONE_HEALING_INTERACTABLE_NAME": "i suggest you stay indoor and rest",
+	"DRONE_HEALING_CONTEXT": ":(",
+
+	"DRONE_MISSILE_INTERACTABLE_NAME": "better useless drone",
+	"DRONE_MISSILE_CONTEXT": "Repair this mf",
+
+	"EQUIPMENTDRONE_INTERACTABLE_NAME" : "very situational drone",
+	"EQUIPMENTDRONE_CONTEXT" : "feed me item",
+
+	"FLAMEDRONE_INTERACTABLE_NAME" : "mithrix 1v1er",
+	"FLAMEDRONE_CONTEXT" : "he fucks mithrix up",
+
+	"EMERGENCYDRONE_INTERACTABLE_NAME" : "slightly better healing drone",
+	"EMERGENCYDRONE_CONTEXT" : "Repair this mf",
+
+	//[TURRETS],
+	"TURRET1_INTERACTABLE_NAME": "gross",
+	"TURRET1_CONTEXT": "dont",
+
+	"PORTAL_SHOP_NAME" : "newt",
+	"PORTAL_SHOP_CONTEXT": "Enter newts mancave",
+	"PORTAL_GOLDSHORES_NAME" : "money place",
+	"PORTAL_GOLDSHORES_CONTEXT": "Enter the money zone",
+	"PORTAL_MYSTERYSPACE_NAME" : "time to die",
+	"PORTAL_MYSTERYSPACE_CONTEXT": "go die or fight twiptwip or something idk fuck off",
+	"PORTAL_ARENA_NAME" : "exit the loop",
+	"PORTAL_ARENA_CONTEXT" : "go back to petrichor V",
+	"PORTAL_ARTIFACTWORLD_NAME" : "the loop",
+	"PORTAL_ARTIFACTWORLD_CONTEXT" : "Enter the loop",
+	"PORTAL_GENERIC_CONTEXT": "Enter this mf",
+	"ZIPLINE_ENTER_CONTEXT" : "teleport bread",
+	"ZIPLINE_EXIT_CONTEXT" : "stop teleporting bread",
+
+	"PICKUP_LUNAR_COIN": "monyee for a geometre dash",
+	"LUNAR_COIN_PICKUP_CONTEXT": "Pick up a monyee",
+	
+	"COST_NONE_FORMAT": "",
+	"COST_MONEY_FORMAT": "${0}",
+	"COST_PERCENTHEALTH_FORMAT": "{0}% HP",
+	"COST_LUNARCOIN_FORMAT": " <sprite name=\"LunarCoin\" tint=1>{0}",
+	"COST_ITEM_FORMAT": "{0} of yo shit(s)",
+	"COST_LUNAR_FORMAT": "{0} monyee",
+	"COST_EQUIPMENT_FORMAT": "{0} dont do it",
+	"COST_VOLATILEBATTERY_FORMAT": "{0} monster energy",
+	"COST_ARTIFACTSHELLKILLERITEM_FORMAT" : "{0} Artifact Key",
+	"COST_TREASURECACHEITEM_FORMAT": "{0} key",
+	"COST_TREASURECACHEVOIDITEM_FORMAT": "{0} purple key for some reason",
+	"FIREBALL_VEHICLE_EXIT_CONTEXT" : "explode yo dumbass",
+
+	"ARTIFACT_TRIAL_CONTROLLER_NAME" : "something idk",
+	"ARTIFACT_TRIAL_CONTROLLER_CONTEXT" : "do it",
+
+	"PORTAL_DIALER_NAME" : "get coding",
+	"PORTAL_DIALER_CONTEXT" : "code that shit",
+
+	"PORTAL_DIALER_LAPTOP_NAME" : "hacker station",
+	"PORTAL_DIALER_LAPTOP_CONTEXT" : "build the .DLL",
+
+	"LUNAR_TELEPORTER_NAME": "mithrix machine",
+	"LUNAR_TELEPORTER_SHIFT" : "petrichor V or moon?",
+	"LUNAR_TELEPORTER_BEGIN_CONTEXT": "start that shit!",
+	"LUNAR_TELEPORTER_END_CONTEXT": "start the loop",
+
+	"SCRAPPER_NAME" : "the machine",
+	"SCRAPPER_CONTEXT" : "put them in the machine",
+	"SCRAPPER_POPUP_TEXT" : "i put them in the machine",
+
+	"DROPSHIP_NAME" : "pelican",
+	"DROPSHIP_CONTEXT" : "GET OUTTA THAT HOE!",
+
+	"MOON_ELEVATOR_NAME" : "bounce pad",
+	"MOON_ELEVATOR_CONTEXT" : "see ya",
+	
+	"VOIDLOCKBOX_NAME": "void zit",
+	"VOIDLOCKBOX_CONTEXT": "pop the void zit",
+
+	"VOID_CHEST_NAME" : "free purple",
+	"VOID_CHEST_CONTEXT" : "if you wanna waste 50% hp",
+
+	"VOID_TRIPLE_NAME" : "command but fairer",
+	"VOID_TRIPLE_CONTEXT" : "better be worth",
+
+	"OPTION_PICKUP_INTERACTION_PROMPT" : "better be worth",
+	"OPTION_PICKUP_UNKNOWN_NAME" : "command but fairer",
+	"OPTION_PICKUP_HEADER" : "DONT STAND HERE TOO LONG",
+
+	"PICKUP_VOID_COIN": "wtf is this",
+	"VOID_COIN_PICKUP_CONTEXT": "Pick up Void Marker",
+	"COST_VOIDCOIN_FORMAT":" <sprite name=\"VoidCoin\" tint=1>{0}",
+
+	"PORTAL_VOID_NAME" : "portal to america",
+	"PORTAL_VOID_CONTEXT": "there's fattass gun lovers here",
+
+	"VOIDCOINBARREL_NAME": "Stalk",
+	"VOIDCOINBARREL_CONTEXT": "Crack this fucker open!",
+
+	"FROG_NAME": "goober",
+	"FROG_CONTEXT": "pet the goober",
+
+	"DEEPVOIDBATTERY_NAME" : "USA caller",
+	"DEEPVOIDBATTERY_CONTEXT" : "call the president",
+
+	"PORTAL_DEEPVOID_NAME" : "voidling portal",
+	"PORTAL_DEEPVOID_CONTEXT": "oops you cant go anywhere else why not here",
+
+	"PORTAL_VOIDOUTRO_NAME" : "is this a portal?",
+	"PORTAL_VOIDOUTRO_CONTEXT": "your run ends when you press this",
+
+	"VOIDCAMPCENTER_NAME" : "void testicle",
+	"VOIDCAMPCENTER_CONTEXT": "stain",
+
+	"VOID_SURVIVOR_POD_HATCH_OPEN_CONTEXT":"give birth",
+
+	"CATEGORYCHEST2_HEALING_NAME": "large breast - healing",
+	"CATEGORYCHEST2_HEALING_CONTEXT": "pop this shit open ig",
+
+	"CATEGORYCHEST2_DAMAGE_NAME": "large breast - damage",
+	"CATEGORYCHEST2_DAMAGE_CONTEXT": "it better be a ukulele",
+
+	"CATEGORYCHEST2_UTILITY_NAME": "large breast - utility",
+	"CATEGORYCHEST2_UTILITY_CONTEXT": "i hope its not bad",
+	}
+}

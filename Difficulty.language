@@ -1,0 +1,16 @@
+{
+	strings:
+	{
+	"DIFFICULTY_BAR_0": "Streamer mode",
+	"DIFFICULTY_BAR_1": "Rainworld",
+	"DIFFICULTY_BAR_2": "Легавые поторопитесь",
+	"DIFFICULTY_BAR_3": "До взрыва осталось 30 секунд",
+	"DIFFICULTY_BAR_4": "20",
+	"DIFFICULTY_BAR_5": "10",
+	"DIFFICULTY_BAR_6": "9   8   7   6",
+	"DIFFICULTY_BAR_7": "5   4   3   2",
+	"DIFFICULTY_BAR_8": "1",
+	"DIFFICULTY_BAR_9": "Санаби проклятье дайте ему стул",
+	"STAGE_COUNT_FORMAT" : "<style=cSub>Z уровень\n</style> {0}",
+	}
+}

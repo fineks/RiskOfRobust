@@ -1,0 +1,25 @@
+{
+	strings:
+	{
+		"ACTION_MOVE_HORIZONTAL" : "left right",
+		"ACTION_MOVE_VERTICAL" : "up down",
+		"ACTION_AIM_HORIZONTAL_MOUSE" : "watch both ways",
+		"ACTION_AIM_VERTICAL_MOUSE" : "look at the sun",
+		"ACTION_AIM_HORIZONTAL_STICK" : "watch both ways",
+		"ACTION_AIM_VERTICAL_STICK" : "look at the sun",
+		"ACTION_JUMP" : "go UP",
+		"ACTION_SPRINT" : "300 meter dash",
+		"ACTION_INTERACT" : "touch some shit",
+		"ACTION_EQUIPMENT" : "use item",
+		"ACTION_PRIMARY_SKILL" : "m1",
+		"ACTION_SECONDARY_SKILL" : "m2",
+		"ACTION_UTILITY_SKILL" : "MOVE",
+		"ACTION_SPECIAL_SKILL" : "DPS BABEY",
+		"ACTION_INFO" : "tab",
+		"ACTION_PING" : "middle mouse",
+		"ACTION_MOVE_VERTICAL_POSITIVE" : "Move Forward",
+		"ACTION_MOVE_VERTICAL_NEGATIVE" : "Move Backward",
+		"ACTION_MOVE_HORIZONTAL_POSITIVE" : "Move Right",
+		"ACTION_MOVE_HORIZONTAL_NEGATIVE" : "Move Left",
+	}
+}

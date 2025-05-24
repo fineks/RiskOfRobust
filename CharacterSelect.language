@@ -1,0 +1,18 @@
+{
+	"strings":
+	{
+		"CHARACTER_SELECT_TITLE": "pick ya SHIT",
+		"SURVIVOR_OVERVIEW": "some bullshit idk",
+		"SURVIVOR_SKILLS": "X GAMES MODE",
+		"SURVIVOR_LOADOUT": "tf2 loadout",
+		"CHARACTER_SELECT_READY": "READY THE FUCK UP",
+		"CHARACTER_SELECT_LOCKED_IN": "THANK you",
+		
+		"LOADOUT_SKILL_PRIMARY": "auto",
+		"LOADOUT_SKILL_SECONDARY": "alt fire",
+		"LOADOUT_SKILL_UTILITY": "dodge",
+		"LOADOUT_SKILL_SPECIAL": "WATCH OUT FOR MY SPECIAL ATTACK",
+		"LOADOUT_SKILL_MISC": "choose your flavor",
+		"LOADOUT_SKIN": "fortnite skin",
+	}
+}
